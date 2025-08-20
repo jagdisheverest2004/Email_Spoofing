@@ -3,8 +3,6 @@
 
 A simple yet powerful web application built with Streamlit to analyze Gmail email headers and detect potential email spoofing attempts. The tool checks for fundamental email authentication standards like SPF, DKIM, and DMARC.
 
-*(You should replace this with a screenshot or GIF of your actual application running)*
-
 ## 🚀 Features
 
   - **Two Scan Modes**:
